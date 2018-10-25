@@ -1,2 +1,6 @@
 # hello-world
-Simple repository 
+
+Waddup
+
+Currently just testing some shit
+Be done shortly
